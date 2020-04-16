@@ -22,3 +22,6 @@ puts "Descrição " + carro.descricao
 
 
 # ex: https://pt.stackoverflow.com/questions/63680/o-que-%C3%A9-o-attr-accessor-no-ruby/63704
+
+
+#nesse exercicios, são de como acessar as variaveis de instancias
