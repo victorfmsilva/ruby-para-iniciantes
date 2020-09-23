@@ -11,6 +11,7 @@ class Carro < Automovel
         #veirifca freios
         #que o carro necessita
         puts "Verificando equipamento"
+        puts "fazendo teste"
         super
     end
 end
